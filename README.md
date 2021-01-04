@@ -67,7 +67,7 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 -->
 
 #### DATABASE
-<img alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg"/>|<img alt="SQLite" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlite.svg"/>|<img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg"/>|<img alt="Firebase" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg"/>|<img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg"/>
+<img alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/oracle.svg"/>|<img alt="SQLite" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlite.svg"/>|<img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg"/>
 |--|--|--|--|--|
  
 <!--
