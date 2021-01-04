@@ -138,7 +138,7 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 [![Omar's github stats](https://github-readme-stats.vercel.app/api?username=IamOmar22&theme=tokyonight&show_icons=true)](https://github.com/IamOmar22)
 -->
 
-<img align="left" alt="Md. Omar Faruk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IamOmar22&theme=tokyonight&show_icons=true" />
+<img align="left" alt="Md. Omar Faruk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AshikurRahman-sec&theme=tokyonight&show_icons=true" />
 
 #### CONNECT WITH ME 👁‍🗨
 </br>
